@@ -1,0 +1,13 @@
+body{
+    background-color: gray;
+    align-items: center;
+}
+.TODO{
+    width: 300px;
+    background-color: white;
+    justify-content: center;
+    
+}
+.tasks{
+    background-color: green;
+}
